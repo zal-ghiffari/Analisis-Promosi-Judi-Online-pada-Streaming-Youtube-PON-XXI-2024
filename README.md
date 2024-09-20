@@ -23,3 +23,10 @@ Disclaimer : *data pada analisis ini bukan data keseluruhan, hanya data pada 3 l
    - Keyword "PULAU777" dominan digunakan pada channel Indoensia Basketball dengan hampir 30 chat, kemudian diikuti pada channel UPoint Esports. Tidak terdapat promosi dengan keyword ini pada channel konijabar tv
    - Pada keyword JP dan JEPE dan JACKPOT ditemukan tertinggi pada channel konijabar tv dengan hampir 20 chat, selanjutnya terdapat juga pada channel basket indo dan esport
    - Keyword CUAN dan SLOT hanya ditemukan pada channel esport
+
+## Penutup
+Grafik analisis dan laporan lengkap bisa kalian download pada pdf diatas, serta data raw yang saya gunakan.
+
+Mohon maaf jika terdapat kesalahan analisis, mohon dikoreksi
+
+Terima kasih
