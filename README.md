@@ -1,4 +1,7 @@
 # Analisis Promosi Judi Online pada Streaming Youtube PON XXI 2024
+
+DOI: [10.13140/RG.2.2.17294.78404](http://dx.doi.org/10.13140/RG.2.2.17294.78404)
+
 Data analisis di peroleh dari hasil scraping data acara live streaming kegiatan PON XXI Aceh-Sumut 2024 di platform Youtube. Data merupakan live dari cabor olahraga basket, voli indoor, dan Esport. Terdapat 3 channel yang dianalisis diantaranya Indonesia Basketball, konijabar tv, dan UPoint Esports
 
 Analisis By @zazal-ghiffari
